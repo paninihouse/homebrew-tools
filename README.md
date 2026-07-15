@@ -22,7 +22,7 @@ Now, more than ever, it is a deliberate choice to keep using the Mac and, in our
 That's why we decided to give back to the Mac ecosystem by making new apps, tools, and utilities focused on re-thinking the very basics of human-machine interaction.
 We're asking ourselves foundational questions like: *"What does 'desktop' even mean?"*, *"How should we navigate the system?"*, *"How far we can go with just a menu?"*, *"How can me make it our own?"*.
 
-It's not obvious that we'll find answers to all of these questions, maybe we’ll simply draw inspiration from elsewhere and develop our own take on the Mac.
+It's not obvious that we'll find answers to all of these questions, for sure is not an easy task.
 Only time will tell.
 What we can guarantee is that anything we come up with will have an extra dose of nerdiness.
 If this resonates with you, stay tuned.
