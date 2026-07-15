@@ -26,7 +26,8 @@ It's not obvious that we'll find answers to all of these questions, for sure is 
 Only time will tell.
 What we can guarantee is that anything we come up with will be very nerdy, probably weird, but for sure worth to be developed.
 We will create our version of XYZ only if we really have some good ideas to improve the product class, not just for the sake of it.
-If this resonates with you, stay tuned.
+
+If all of this resonates with you, stay tuned.
 
 ## Guiding principles
 
