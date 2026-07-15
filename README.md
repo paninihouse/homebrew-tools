@@ -32,8 +32,8 @@ If all of this resonates with you, stay tuned.
 ## Guiding principles
 
 The future developments of these projects will follow some guiding principles.
-Nothing crazy, but a good set of metrics to judge our own work against.
-If they sound very similar to the Unix philosphy to you, well that's because they kind of are ;-)
+Nothing crazy, just a good set of metrics to judge our own work against.
+If they sound very similar to the Unix philosphy... well, that's because we think it's great ;-)
 
 ### Small and laser-focused
 
