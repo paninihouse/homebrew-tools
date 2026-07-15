@@ -12,7 +12,7 @@ After all, it's why many of us discovered the joy of programming or the craftman
 It wouldn't be absurd to say that without the Mac our lives might look very different today.
 That’s just how deeply we love the ecosystem, and we’re grateful for its existence.
 
-Another secret in plain sight is how little love and innovation the Mac has received in recent years.
+Unfortunately, another secret in plain sight is how little love and innovation the Mac has received in recent years.
 
 We can’t deny that many questionable choices have been made recently.
 Also, we can't deny that the Mac is no longer the only decent option for people like us who love computers (has it ever been?).
